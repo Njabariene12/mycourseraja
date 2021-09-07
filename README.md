@@ -1,0 +1,2 @@
+# mycourseraja
+Start of journey
